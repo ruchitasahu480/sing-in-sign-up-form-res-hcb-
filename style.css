@@ -1,0 +1,8 @@
+@media screen and (max-width:767px) {
+    body {
+      font-size: l3px;
+    }
+    #imagewidthsm{
+width:70% ;
+    }
+  }
